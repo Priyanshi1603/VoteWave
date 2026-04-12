@@ -4,6 +4,21 @@ A complete, production-ready online voting system built with **Streamlit + SQLit
 
 ---
 
+## 🌐 Live Demo  
+👉 https://votewave.streamlit.app/
+
+---
+
+## 🚀 Deployment
+
+The application is deployed using **Streamlit Cloud** and is publicly accessible.
+
+- 🔗 Live URL: https://votewave.streamlit.app/
+- ☁️ Hosting: Streamlit Cloud
+- 📦 Code Repository: GitHub
+
+---
+
 ## 📁 Project Structure
 
 ```
