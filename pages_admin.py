@@ -1,7 +1,6 @@
 """
 pages_admin.py — Org Admin pages
 Registration is now a request system — super admin must approve before login is allowed.
-Voter registration requires email OTP verification.
 """
 import streamlit as st
 import io
