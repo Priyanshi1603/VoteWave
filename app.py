@@ -3,9 +3,6 @@ app.py — VoteWave Entry Point
 Run with: streamlit run app.py
 """
 import streamlit as st
-#remove the 4 platform stats and 3 features highlighting cards from 
-# the home page and also change the image or emoji whatever is used with 
-# the VoteWave name
 # ── Page config must be the very first Streamlit call ──
 st.set_page_config(
     page_title="VoteWave",
