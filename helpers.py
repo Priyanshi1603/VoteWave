@@ -1,6 +1,5 @@
 """
 helpers.py — All business logic and DB query functions for VoteWave
-No OTP / email verification — simple registration and login.
 """
 import re
 import uuid
